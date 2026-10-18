@@ -1,4 +1,4 @@
-# Unofficial Moniepoint PHP Library / Plug-in
+# Moniepoint PHP Library SDK / Plug-in
 
 **Developer:** Marshall Unduemi Josiah
 
